@@ -4,8 +4,8 @@ C++ program to simulate the number of people that are able to transverse a model
 
 ## Screenshot
 
-![](screenshot.jpg)
+![](images/screenshot.jpg)
 
 ## UML Diagram
 
-![](simulation-UML.jpg)
+![](images/simulation-UML.jpg)
