@@ -1,6 +1,6 @@
 # learning-and-education
 
-Small programs or exercises to develop skills in specific areas
+Programs or exercises to develop skills in specific areas
 
 ## Larger Projects
 
